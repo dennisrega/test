@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/79058031/9f94_r32.jpg", GTV  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/f0ec5a1a/a884_r32.jpg", RCTI  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FRCTI-Indonesia\u002Fsa_hls\u002FRCTI-Indonesia.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/88d6f245/d9c5_r32.jpg", MNCtv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FMNCTV-Merdeka\u002Fsa_hls\u002FMNCTV-Merdeka.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/3f803501/998e_r32.jpg", INEWS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FInewsTV-Agustus\u002Fsa_hls\u002FInewsTV-Agustus.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/14268442/234d_r32.jpg", ANTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FANTV-radeon\u002Fsa_hls\u002FANTV-radeon.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images//channel/66544aea-676.png", NETtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FTRANS7-transformer\u002Fsa_hls\u002FTRANS7-transformer.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images//channel/3dcbab2e/fe41.png", METROtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FTRANS7-transformer\u002Fsa_hls\u002FTRANS7-transformer.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images//channel/97dc6e72/d309.png", TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FTVONE-Decepticon\u002Fsa_hls\u002FTVONE-Decepticon.m3u8
