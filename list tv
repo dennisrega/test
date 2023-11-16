@@ -2,7 +2,6 @@
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/79058031/9f94_r32.jpg", GTV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://static.mncnow.id/images/channel/f0ec5a1a/a884_r32.jpg", RCTI  
 #EXTVLCOPT:http-user-agent="mozilla\u002F5.0 (macintosh; intel mac os x 10_15_6) applewebkit\u002F605.1.15 (khtml, like gecko) version\u002F14.0.3 safari\u002F605.1.15"},"content":{"listOfCluster
 https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FRCTI-Indonesia\u002Fsa_hls\u002FRCTI-Indonesia.m3u8
