@@ -46,7 +46,7 @@ EXTINF:-1 group-title="TV Indonesia", tvg-logo="https://raw.githubusercontent.co
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" tvg-id="" tvg-name"" group-title="TV Indonesia",MOJI HD
 http://103.166.27.2:8112/play/a017
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="http://libretv.my.id/assets/tv-logo/moji.png", MOJI 
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
