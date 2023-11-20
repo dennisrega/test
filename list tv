@@ -52,10 +52,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Trans TV
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png",Trans TV
 https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", TRANS TV
+#EXTINF:-1 tvg-logo="https://goletskerja.com/wp-content/uploads/2020/11/transtv.jpg" group-title="TV Indonesia", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
