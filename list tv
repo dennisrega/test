@@ -132,12 +132,12 @@ http://rr2.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",BTV
 https://mangga-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", BTV
+#EXTINF:-1 tvg-logo="" group-title="TV Indonesia", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Sindonews TV
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="",Sindonews TV
 https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="TV Indonesia",CNN INDONESIA
