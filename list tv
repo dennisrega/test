@@ -177,7 +177,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.m
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="",IDX
 https://mangga-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", ONE
+#EXTINF:-1 tvg-logo="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2021/09/Gitscale-e1633021901908.jpg?fit=630%2C315" group-title="MOVIES", ONE
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683130&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="MOVIES", KIX
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683134&extension=ts&play_token=GVZS088tcf
