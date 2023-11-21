@@ -217,7 +217,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&ex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="MOVIES", AXN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK",Biznet Kids
+#EXTINF:-1 tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="ANAK-ANAK", Cinemachi Kids
@@ -253,7 +253,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&ex
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-id="TELETUBBIES" tvg-logo="https://tv.qreatifku.my.id/images/teletubbies.png",TELETUBBIES
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-id="TELETUBBIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5a/Teletubbies_Logo.png",TELETUBBIES
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 https://tinyurl.com/TiviMe-Teletubbies
 
@@ -275,7 +275,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="ANAK-ANAK", MKidZ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="ANAK-ANAK", Baby TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="ANAK-ANAK", Baby TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683167&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="ANAK-ANAK", Kids TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
