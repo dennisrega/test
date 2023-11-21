@@ -105,10 +105,10 @@ http://rr.dens.tv/h/h12/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://gwejqeb2o8ze.cdn.shift8web.ca/wp-content/uploads/2022/01/RTV.jpg",RTV
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://assets.ayobandung.com/crop/8x454:454x664/750x500/webp/photo/2022/01/03/3502991424.jpg" group-title="TV Indonesia",RTV
 https://mangga-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://gwejqeb2o8ze.cdn.shift8web.ca/wp-content/uploads/2022/01/RTV.jpgg",RTV
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://assets.ayobandung.com/crop/8x454:454x664/750x500/webp/photo/2022/01/03/3502991424.jpg" group-title="TV Indonesia",RTV
 http://rr1.dens.tv/h/h10/index1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -145,15 +145,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="TV Indonesia",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia",Magna Chanel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV Indonesia",Magna Chanel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia",Magna Chanel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV Indonesia",Magna Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia",Nusantara TV
