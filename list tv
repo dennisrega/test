@@ -361,360 +361,360 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extens
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",SPOTV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",SPOTV
 https://mangga-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",SPOTV 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",SPOTV 2
 https://mangga-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Sportstars 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Sportstars 1
 https://mangga-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Sportstars 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Sportstars 2
 https://mangga-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Soccer Channel
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Soccer Channel
 https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Fight Sports
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Fight Sports
 https://mangga-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Sports",Fight Sports
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Sports",Fight Sports
 http://rr1.dens.tv/h/h05/index.m3u8
 
-#EXTINF:0 tvg-id="esp" group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Eurosport
+#EXTINF:0 tvg-id="esp" group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Eurosport
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Premier Sports
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Premier Sports
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Tennis Channel International
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Tennis Channel International
 https://samsunguk-tennischannel-international-samsung-uk-9pdb4.amagi.tv/playlist/samsunguk-tennischannel-international-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",T2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",T2
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Boxing TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Bein Sports Xtra
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Bein Sports Xtra
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Sports",Bellator MMA
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Sports",Bellator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Sports",Glory Kickboxing
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Sports",Glory Kickboxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Sports",Fight Network
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Stadium
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",IMPACT! Wrestling
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Hard Knocks
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=byPFmwd4yw8HDyR1xiKT&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
 
-EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Unifi Sports
+EXTINF:-1 group-title="Sports" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Unifi Sports
 #https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Musik", Update Playlist Terbaru
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Musik", Update Playlist Terbaru
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Music TV
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Music TV
 https://mangga-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",MTV 90s
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",MTV 90s
 http://mangga-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",MTV Live
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",MTV Live
 https://mangga-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", MTV Music
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", MTV Music
 https://i.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", MTV Biggest Pop
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", MTV Biggest Pop
 https://i.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", MTV Spankin' New
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", MTV Spankin' New
 https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", MTV Queens of Pop
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", MTV Queens of Pop
 https://i.mjh.nz/PlutoTV/63da30b52e477400081ccdf1-alt.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Yo! MTV
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Yo! MTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", MTV Urban Music
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", MTV Urban Music
 https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", MTV Party Music
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", MTV Party Music
 https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Vevo Retro Rock
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Vevo Pop
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Vevo Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Vevo R&B
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Vevo R&B
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Vevo True School Hip-Hop
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Vevo True School Hip-Hop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Vevo Reggaeton & Trap
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Vevo Reggaeton & Trap
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Vevo Latino
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Vevo Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", XITE
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Trace Urban
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Music
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Pluto TV Music
 https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", New KPop
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", New KPop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV K-Pop
+#EXTINF:-1 group-title="Musik" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Pluto TV K-Pop
 https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Pengetahuan & Alam", Update Playlist Terbaru
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Pengetahuan & Alam", Update Playlist Terbaru
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Discovery Asia
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Discovery Channel
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Da Vinci
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",BBC Earth
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",BBC Earth
 https://mangga-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",CGTN Documentary
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",CGTN Documentary
 https://mangga-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Crime + Investigation
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Crime + Investigation
 https://mangga-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Discovery Channel
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Discovery Channel
 #https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",History
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",History
 https://mangga-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Outdoor
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Outdoor
 https://mangga-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Love Nature
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Love Nature
 https://mangga-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Smithsonian Channel
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Samsung Wild Life
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Love Nature 4K
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Magellan TV Now
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Magellan TV Now
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=XeztDN3mRuKJPvR9KKni&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Magellan TV Now
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Magellan TV Now
 https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Vice
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Vice
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Documentary+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Documentary+
 https://d2gplwl9ws0syl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6rg0sjciai0q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Xplore
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Xplore
 https://d1h0pre5juliql.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h9yybm20pnqb8-ssai-prd/amgxplore/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",WeatherSpy
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",WeatherSpy
 https://7eeb372ee2224dbf9138691d0f5d218b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Pluto TV History
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Pluto TV History
 https://i.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Pluto TV Adventure
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Pluto TV Adventure
 https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Pluto TV Space
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Pluto TV Space
 https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Science
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Pluto TV Science
 https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Nature Time
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",HistoryHit
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Real Wild
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Outdoor FHD
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Outdoor FHD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Global Trekker
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Dens Learning & Knowledge
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Dens Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Religi", Update Playlist Terbaru
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Religi", Update Playlist Terbaru
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Religi" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",TV Mu
+#EXTINF:-1 group-title="Religi" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",TV Mu
 https://mangga-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Religi" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Muslim TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Muslim TV
 https://mangga-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Religi" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Quran TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Quran TV
 https://mangga-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Religi",Quran TV
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Religi",Quran TV
 http://rr2.dens.tv/s/s28/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Religi" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Tawaf TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Tawaf TV
 https://mangga-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Religi",Rodja TV
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Religi",Rodja TV
 http://rr2.dens.tv/s/s14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Berita Internasional", Update Playlist Terbaru
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="Berita Internasional", Update Playlist Terbaru
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",ABC Australia
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",ABC Australia
 https://mangga-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Aljazeera English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Aljazeera English
 https://mangga-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",BBC World News
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",BBC World News
 https://mangga-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",CGTN
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",CGTN
 https://mangga-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",CNA
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",CNA
 https://mangga-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",CNN International
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",CNN International
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch236)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",DW English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",DW English
 https://mangga-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",EuroNews English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",EuroNews English
 https://mangga-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Fox News
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Fox News
 https://mangga-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",France 24 English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",France 24 English
 https://mangga-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",NHK World Japan
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",NHK World Japan
 https://mangga-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",NHK World Premium
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",NHK World Premium
 https://mangga-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",RT English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",RT English
 https://mangga-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",TRT World
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",TRT World
 https://mangga-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",TV5 Monde Asie
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",TV5 Monde Asie
 https://mangga-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Bloomberg TV
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", Bloomberg TV
 http://rr1.dens.tv/h/h03/index.m3u8
 
