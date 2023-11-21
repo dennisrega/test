@@ -212,7 +212,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&ex
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="MOVIES", Cinemachi Kids
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="MOVIES", XingkongTV
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="MOVIES", Paramount Network
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/27908087/69902777-4180c380-135f-11ea-97b4-c24d6f72eb7c.png" group-title="MOVIES", Paramount Network
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="MOVIES", AXN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
@@ -223,32 +223,32 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="ANAK-ANAK", Cinemachi Kids
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="ANAK-ANAK", Animax
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="ANAK-ANAK", Animax
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="ANAK-ANAK", Kids TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="ANAK-ANAK", Kids TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="ANAK-ANAK", ZooMoo
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png" group-title="ANAK-ANAK", ZooMoo
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="ANAK-ANAK", MKidZ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="ANAK-ANAK", Nickelodeon
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nickelodeon-tv9117.jpg" group-title="ANAK-ANAK", Nickelodeon
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="ANAK-ANAK", Rajawali TV
+#EXTINF:-1 tvg-logo="https://assets.ayobandung.com/crop/8x454:454x664/750x500/webp/photo/2022/01/03/3502991424.jpg" group-title="ANAK-ANAK", Rajawali TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png", RTV 
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://assets.ayobandung.com/crop/8x454:454x664/750x500/webp/photo/2022/01/03/3502991424.jpg", RTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="ANAK-ANAK", DreamWorks
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="ANAK-ANAK", DreamWorks
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://tv.qreatifku.my.id/images/ik.png",INDIKIDS
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://swamediainc.storage.googleapis.com/swa.co.id/wp-content/uploads/sites/23/2021/07/26185436/IndiKids-Logo.jpg",INDIKIDS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
