@@ -28,7 +28,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1200px-MNCTV_logo_2015.svg.png",MNC TV
 https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="TV | Indonesia",iNEWS HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="TV Indonesia",iNEWS HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/14
